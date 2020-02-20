@@ -4,7 +4,7 @@ public class gitgit {
 
 	private String name;
 	private int value;
-	private String phone;
+	private String phon;
 
 	public gitgit() {
 		// TODO - implement gitgit.gitgit
