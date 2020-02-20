@@ -30,5 +30,6 @@ public class Testgit {
 
 	private String mail;
 	private double lala;
+	private int leuleu;
 
 }
